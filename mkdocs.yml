@@ -22,7 +22,7 @@ theme:
   name: material
   font: false
   logo: assets/logo.svg
-  site_favicon: assets/logo_24.ico
+  favicon: assets/logo.svg
   custom_dir: docs/.overrides
   palette:
     # Palette toggle for light mode
