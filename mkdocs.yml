@@ -2,12 +2,27 @@ site_name: n0bias
 
 nav:
   - Home: index.md
+  - Courses:
+      - index.md
+      - Advanced Macro:
+          - courses/advanced_scripting/index.md
+          - Installation:
+              - courses/advanced_scripting/installation/installing_fiji.md
+              - courses/advanced_scripting/installation/getting_started.md
+          - Refresher:
+              - courses/advanced_scripting/refresher/index.md
+              - courses/advanced_scripting/refresher/variables.md
+              - courses/advanced_scripting/refresher/strings.md
+              - courses/advanced_scripting/refresher/arrays.md
+              - courses/advanced_scripting/refresher/loops.md
+              - courses/advanced_scripting/refresher/conditionals.md
   - demo.md
 
 theme:
   name: material
   font: false
   logo: assets/logo.svg
+  site_favicon: assets/logo_24.ico
   custom_dir: docs/.overrides
   palette:
     # Palette toggle for light mode
