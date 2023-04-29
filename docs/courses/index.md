@@ -1,6 +1,6 @@
 ---
 icon: material/magnify
-description: .
+description: description
 tags:
     - course
 ---

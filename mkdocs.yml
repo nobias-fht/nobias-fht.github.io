@@ -1,14 +1,7 @@
-site_name: nobias
+site_name: n0bias
 
 nav:
   - Home: index.md
-  - Courses:
-      - courses/index.md
-  - Projects:
-      - examples/index.md
-  - People:
-      - people/index.md
-  - Resources: resources.md
   - demo.md
 
 theme:
@@ -80,9 +73,9 @@ plugins:
   - search
 
   # last modified date
-  - git-revision-date-localized:
-      enable_creation_date: true
-      type: timeago
+  #- git-revision-date-localized:
+  #    enable_creation_date: true
+  #    type: timeago
 
   # add committer info
   - git-committers:

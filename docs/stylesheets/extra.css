@@ -114,6 +114,11 @@ nav.md-header__inner {
   font-size: 0.84rem;
 }
 
+
+.md-header__topic {
+  font-family: "Share Tech Mono";
+}
+
 .md-typeset h1 {
   color: var(--md-default-fg-color);
   font-size: 3em;
