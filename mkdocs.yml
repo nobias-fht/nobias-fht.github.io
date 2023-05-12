@@ -94,7 +94,7 @@ plugins:
 
   # add committer info
   - git-committers:
-      repository: pydev-guide/pydev-guide.github.io
+      repository: nobias-fht/nobias-fht.github.io
       branch: main
       token: !ENV MKDOCS_GIT_COMMITTERS_APIKEY
 
